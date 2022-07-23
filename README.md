@@ -9,4 +9,5 @@
     
    Also I have included a .env file with REACT_APP_API_BASE_URL = http://localhost:3001
    
-        Link for the recorded-video: https://drive.google.com/file/d/1YOgMMnjhJ_yj16UCMq7q3TABNAysh1D7/view?usp=sharing
+        Link for the recorded-video: 
+        https://drive.google.com/file/d/1oxcdmzc98Pv6PXJ4RFSZ-sLEXBMWns4m/view?usp=sharing
